@@ -61,11 +61,13 @@ Primero debemos tener instalado Python. Luego de la instalacion abrimos la termi
 python --version
 
 ```
+ó
 ```py
 
 python3 --version
 
 ```
+Nota: Para instalar Django se recomienda Python 3.x
 
 
 
