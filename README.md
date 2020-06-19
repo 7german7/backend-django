@@ -164,7 +164,7 @@ python manage.py runserver
 # Vistas
 
 ## Crear la primera vista
-Para este ejercicio lo haremos simple. En el archivo **urls.py** importamos **django.http.HttpResponse** y definimos una **funcion** que devuelva una respuesta (en este caso hello_world), y establemos en que path estara esta despuesta:
+Para este ejercicio lo haremos simple. En el archivo **urls.py** importamos **django.http.HttpResponse** y definimos una **funcion** que devuelva una respuesta (en este caso hello_world), y establecemos en que path estara esta despuesta:
 
 ```py
 from django.contrib import admin
