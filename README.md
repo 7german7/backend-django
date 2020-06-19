@@ -54,13 +54,17 @@
 # Preparando entorno
 
 ## Configuración de entorno de trabajo
-Primero debemos tener instalado Python. Luego de la instalacion abrimos la terminal y nos posicionamos en la ruta que deseamos establecer nuestro proyecto. Normalmente en linux Python viene instalado por defecto, podemos checar si lo tenemos instalado con el siguiente comando:
+Primero debemos tener instalado Python. Luego de la instalacion abrimos la terminal y nos posicionamos en la ruta que deseamos establecer nuestro proyecto. Normalmente en linux, Python viene instalado por defecto, podemos checar si lo tenemos instalado con el siguiente comando:
 
 ```py
 
-...
-Hola
-...
+python --version
+
+```
+```py
+
+python3 --version
+
 ```
 
 
