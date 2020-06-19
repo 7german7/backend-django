@@ -54,7 +54,16 @@
 # Preparando entorno
 
 ## Configuración de entorno de trabajo
-Primero debemos tener instalado Python. Luego de la instalacion abrimos la terminal y nos posicionamos en la ruta que deseamos establecer nuestro proyecto.
+Primero debemos tener instalado Python. Luego de la instalacion abrimos la terminal y nos posicionamos en la ruta que deseamos establecer nuestro proyecto. Normalmente en linux Python viene instalado por defecto, podemos checar si lo tenemos instalado con el siguiente comando:
+
+```py
+
+...
+Hola
+...
+```
+
+
 
 ## Creacion de entorno virtual con Python
 Vamos a crear un entorno virtual para nuestro proyecto, el cual contendra todas las dependencias. Es muy importante que este entorno este fuera de nuestro proyecto. Para crearlo ejecutamos:
